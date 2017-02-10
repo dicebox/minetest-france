@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = http://repo.or.cz/minetest_hudbars.git
+	branch = master
+	commit = e11a52d8fba15ec04226d4659a8aeb9dc59eb632
+	parent = 4f21319050806a4935cee34e7c34748854f7ce9a
+	cmdver = 0.3.1
