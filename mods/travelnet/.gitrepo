@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/Sokomine/travelnet.git
+	branch = master
+	commit = 121f8f61f23d128cde497125bbbbfb1293b34b19
+	parent = ff238b717911b5ddbcbc41fcb591d9433e645e35
+	cmdver = 0.3.1
