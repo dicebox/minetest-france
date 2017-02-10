@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/GunshipPenguin/trading.git
+	branch = master
+	commit = c64b543b058dc168d08bd21e49a385f0542567d8
+	parent = b41aa2ba3e87fc78a1d13fcbefa62e8dfa120202
+	cmdver = 0.3.1
