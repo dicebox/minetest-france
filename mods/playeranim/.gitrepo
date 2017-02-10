@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/minetest-mods/playeranim.git
+	branch = master
+	commit = 0ca8e5a3aad630657d17ba801eede61cb1ff7065
+	parent = 2f40301c2d455e5bcda3aa9e24a951b39fe3a4df
+	cmdver = 0.3.1
