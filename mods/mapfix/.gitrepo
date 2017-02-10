@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/minetest-mods/mapfix.git
+	branch = master
+	commit = 5df9c6fe889a3e5e744ed8c663dc66e9122dfe98
+	parent = 0cdaec2967e126bd48e52e21bc8b924bdfac7bef
+	cmdver = 0.3.1
