@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/minetest-technic/unified_inventory.git
+	branch = master
+	commit = e8529e7742a24290f592011e1b02f336e9cc7e59
+	parent = 44852e7fd1ea8fd51545d238d525f2ea86bf7115
+	cmdver = 0.3.1
