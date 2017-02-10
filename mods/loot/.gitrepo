@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/minetest-mods/loot.git
+	branch = master
+	commit = 6c2f1996493440379011c93510f5dcf161cb6980
+	parent = 305bdee5f2fd02befc0fee9f7ea4da9cb6fd4e76
+	cmdver = 0.3.1
