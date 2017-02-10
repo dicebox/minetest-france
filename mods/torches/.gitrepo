@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/minetest-mods/torches.git
+	branch = master
+	commit = e4c57c28414de13bfd36970e6f1d0df223ce57f1
+	parent = 740f0fec11d16c57529550ef35797c1184f7164d
+	cmdver = 0.3.1
