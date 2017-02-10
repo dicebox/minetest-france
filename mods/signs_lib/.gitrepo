@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/minetest-mods/signs_lib.git
+	branch = master
+	commit = 7657d0d1f219cf2c1b0f5dbaec4f735158cbac30
+	parent = 10bc3cf9f4cb35464fd0d186f720640e64cab439
+	cmdver = 0.3.1
