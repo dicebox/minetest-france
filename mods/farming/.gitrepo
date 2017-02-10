@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/tenplus1/farming.git
+	branch = master
+	commit = 4d5bd4fff1bd5ebf1212e14dc2392c049be68505
+	parent = 161cbdbd37bd0d051a4ee373ef8545b0426bfb37
+	cmdver = 0.3.1
