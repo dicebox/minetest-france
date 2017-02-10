@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/Uberi/Minetest-WorldEdit.git
+	branch = master
+	commit = bcac45a476577341b6385b671edcf639acc63393
+	parent = ec23445e4e68bb65395a1afad5fc288cbd771d1f
+	cmdver = 0.3.1
