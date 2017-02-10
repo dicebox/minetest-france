@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/tenplus1/ambience.git
+	branch = master
+	commit = dc1ad5b1c991586065cfaf930763c02fde897bd8
+	parent = 1ac0247209f85d4303402feb9d20c589cab81c6b
+	cmdver = 0.3.1
