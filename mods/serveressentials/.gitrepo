@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/GunshipPenguin/serveressentials.git
+	branch = master
+	commit = 6b6ec40b45f02a1627279c4820e9c63d7e7e7b71
+	parent = d680d011fc82e2bef27e2ec4382f90d830a62b38
+	cmdver = 0.3.1
