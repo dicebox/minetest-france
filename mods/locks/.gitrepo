@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/Sokomine/locks.git
+	branch = master
+	commit = 2f420ef71a2be8c70bd724b8a5ca9095bf4bcfa0
+	parent = d60c29b6dd6021b7a538c56d924cc24d5a1976e3
+	cmdver = 0.3.1
