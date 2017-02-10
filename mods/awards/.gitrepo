@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/minetest-mods/awards.git
+	branch = master
+	commit = c994978683355417783586262914d4be128cbdf0
+	parent = 579e3f9de61034075f101fdd414548edf0e4b650
+	cmdver = 0.3.1
