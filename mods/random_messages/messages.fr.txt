@@ -1,0 +1,37 @@
+[-Astuce-] Utilisez T pour envoyer des message ou taper des commandes.
+[-Astuce-] Utilisez F9 pour afficher la mini-carte.
+[-Astuce-] Utilisez F7 pour changer la vue du personnage.
+[-Astuce-] Utilisez F2 pour activer désactiver le brouillard, R pour limiter/étendre le champ de vision.
+[-Astuce-] Vous êtes pressé.e. ? Sprintez en maintenant la touche "e".
+[-Astuce-] Si au moins la moitiés des joueurs dorment, la nuit peut être est passée. 
+[-Astuce-] Si vous mourrez vous apparaîtrez près du dernier lit dans lequel vous avez dormit.
+[-Astuce-] Tondez un mouton sans danger grâce aux ciseaux à laine !
+[-Astuce-] Donnez du blé a un mouton et il vous suivra si vous marchez lentement.
+[-Astuce-] Donnez cinq épis de blé a un mouton pour l'apprivoiser.
+[-Astuce-] Des graines de blé sauvage peuvent être trouvées dans les touffes d'herbe.
+[-Astuce-] On trouve des graines de coton dans les hautes herbe de la jungle...
+[-Astuce-] Il y a des chances de trouver des graines dans les touffes d'herbe.
+[-Astuce-] Vos plantes ne poussent pas ?  Travaillez le sol avec une houe et plantez les près de l'eau.
+[-Astuce-] Maintenez la touche MAJ pour marcher sur le bord des blocs sans tomber !
+[-Astuce-] Envie de changer d'apparence ? Construisez une armoire !
+[-Astuce-] Consulter votre 'crafting guide' pour connaitres toutes les recettes !
+[-Astuce-] Votre chariot minier est trop lent ? Tapez dessus pour le faire avancer !
+[-Astuce-] Retrouvez la direction de vos ossements grace à la commande "/showbones".
+[-Astuce-] Affichez vos succès grace aux Tableau de Trophés.
+[-Astuce-] Les zombies, fantômes et oerrki n'apparaissent que dans les zones sombres.
+[-Astuce-] Vous devriez pouvoir vaincre les zombies sans encombres si vous les tenez a distance.
+[-Astuce-] Les portails élémentaux permettent de se déplacer d'un bout a l'autre de la carte rapidement.
+[-Astuce-] La nourriture régénère votre barre de vie.
+[-Astuce-] Consultez les dernières astuces avec la commande /rmessages
+[-Astuce-] Consultez le guide du server à tout moment avec la commande /guide
+[-Astuce-] Les ruines enfouies abritent parfois des trésors ... et des zombies
+[-Astuce-] Le tournevis sert à tourner les blocs, c'est l'outil indispensable des architectes !
+[-Astuce-] Avez-vous déjà rencontré un Nyan Cat ? C'est le bloc le plus rare du jeu
+[-Astuce-] La potion de la taupe est incroyable ! Buvez-la et foncez vers un mur !!
+[-Astuce-] Marre de la grisaille ? Craftez un pot de peinture et repeignez les grottes !
+[-Astuce-] Les plants de haricots verts donnent parfois un haricot magique !
+[-Astuce-] Les haricots magiques poussent parfois dans les touffes d'herbes !
+[-Astuce-] Utilisez la loupe pour tout savoir sur un bloc !
+[-Astuce-] Acheminez, triez, et transformez automatiquement vos matériaux grâce aux tubes pneumatiques !
+[-Astuce-] Créez des machines entièrement automatisées grâce aux mesecons !
+[-Astuce-] Craftez un sac pour transporter plus de choses !

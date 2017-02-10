@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/xisd/random_messages.git
+	branch = with_signs
+	commit = 9792a3a3bc5e0b6e47e7be7c8e9ba94604829187
+	parent = 778727cbf8b4e3da75ff1f09c2d7b48fea88ad68
+	cmdver = 0.3.1
