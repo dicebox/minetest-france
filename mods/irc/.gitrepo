@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/minetest-mods/irc.git
+	branch = master
+	commit = ae0cb08e3e79f3a36fe8148a3fe35ae0cf9bfbf4
+	parent = de24695a841b8946b8593db8336f4577b364078e
+	cmdver = 0.3.1
