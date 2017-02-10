@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/PilzAdam/nether.git
+	branch = master
+	commit = bc2ccfbaea79e7aa9d57249386c837114aa46e36
+	parent = 7145057e1f4ef010547d98c11840c8501f2a1823
+	cmdver = 0.3.1
