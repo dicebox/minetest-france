@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/tenplus1/mobs_monster.git
+	branch = master
+	commit = d8b5b15c82f4cf9948d2977fdeb07d16d6c8d7fe
+	parent = d06616a53e3429aca268e5b66ac570b0f8c8b254
+	cmdver = 0.3.1
