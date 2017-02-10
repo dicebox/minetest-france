@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/minetest-mods/moreblocks.git
+	branch = master
+	commit = 4ad4dc958f0a87be754bc00cd6facb879b0d5a7c
+	parent = e4fc58c77252258230aa00ebcce32e9bec3dafca
+	cmdver = 0.3.1
