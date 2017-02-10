@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/ac-minetest/shop.git
+	branch = master
+	commit = 321330486e0eea5c74a61ba385d9dc20e86b38de
+	parent = ccbcc3fd5b2d499f31d094c52e18bfed699382f5
+	cmdver = 0.3.1
