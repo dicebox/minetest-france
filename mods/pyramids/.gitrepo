@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/BlockMen/pyramids.git
+	branch = master
+	commit = b8c8a2eb55fd3b21dfda9cbdc9163a843f85285c
+	parent = 6e231c9a74f61e7b3b5c22a466327c170765531d
+	cmdver = 0.3.1
