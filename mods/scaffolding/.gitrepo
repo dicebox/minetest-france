@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://dtarcz@bitbucket.org/Infinatum/scaffolding.git
+	branch = auto-build
+	commit = 9e47250b387953043733ace606b25f51c399ef46
+	parent = c07638f9f4d9044e37d9a35421b0e9a8c0fd6a85
+	cmdver = 0.3.1
