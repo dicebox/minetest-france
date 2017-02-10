@@ -1,0 +1,51 @@
+ambience clone: from https://github.com/tenplus1/ambience.git
+areas	clone: from git@github.com:ShadowNinja/areas.git
+awards clone: from https://github.com/minetest-mods/awards.git
+bakedclay clone: from https://github.com/tenplus1/bakedclay.git
+channels clone: from https://github.com/SmallJoker/channels.git
+clean >> créé avec l'aide de fhwcat, récupéré le document de base sur https://forum.minetest.net/viewtopic.php?t=2777
+email clone: from https://github.com/rubenwardy/email.git
+farming clone: from https://github.com/tenplus1/farming.git
+hopper clone: from https://github.com/tenplus1/hopper.git
+irc clone: from https://github.com/minetest-mods/irc.git
+locked_travelnet clone: from https://github.com/Sokomine/locked_travelnet.git
+locks clone: from https://github.com/Sokomine/locks.git
+loot clone: from https://github.com/minetest-mods/loot.git
+lucky_block clone: from https://github.com/tenplus1/lucky_block.git
+mapfix clone: from https://github.com/minetest-mods/mapfix.git
+minetest-3d_armor clone: from git@github.com:stujones11/minetest-3d_armor.git
+minetest_hbarmor clone: from http://repo.or.cz/minetest_hbarmor.git
+minetest_hbhunger clone: from http://repo.or.cz/minetest_hbhunger.git
+minetest_hudbars clone: from http://repo.or.cz/minetest_hudbars.git
+Minetest-WorldEdit  = git@github.com:Uberi/Minetest-WorldEdit.git
+misc >> créé avec l'aide de fhwcat...
+mobs_animal clone: from https://github.com/tenplus1/mobs_animal.git
+mobs_monster clone: from https://github.com/tenplus1/mobs_monster.git
+mobs_redo clone: from https://github.com/tenplus1/mobs_redo.git
+moreblocks clone: from https://github.com/minetest-mods/moreblocks.git
+moreores clone: from https://github.com/minetest-mods/moreores.git
+mywalls clone: from https://github.com/minetest-mods/mywalls.git
+nether clone: from git@github.com:PilzAdam/nether.git
+playeranim clone: from https://github.com/minetest-mods/playeranim.git
+pvpbutton >> récupéré dans un dépot, un peu a la sauvage... https://github.com/paly2/Mynetest-server/tree/master/mods/pvpbutton
+pyramids clone: from https://github.com/BlockMen/pyramids.git
+random_messages clone: from https://github.com/xisd/random_messages.git
+real_torch clone: from https://github.com/tenplus1/real_torch.git
+scaffolding >> fork perso: https://dtarcz@bitbucket.org/Infinatum/scaffolding.git
+serveressentials clone: from https://github.com/GunshipPenguin/serveressentials.git
+shop clone: from https://github.com/ac-minetest/shop.git
+showbones clone: from https://github.com/ExeterDad/showbones.git
+signs_lib clone: from https://github.com/minetest-mods/signs_lib.git
+simple_skins clone: from https://github.com/tenplus1/simple_skins.git
+spawn clone: from https://github.com/cheapie/spawn.git
+spectator_mode clone: from https://github.com/minetest-mods/spectator_mode.git
+sprint clone: from https://github.com/GunshipPenguin/sprint.git
+torches clone: from git@github.com:minetest-mods/torches.git
+trading clone: from https://github.com/GunshipPenguin/trading.git
+travelnet clone: from https://github.com/Sokomine/travelnet.git
+treecapitator clone: from https://github.com/HybridDog/treecapitator.git
+unified_inventory clone: from git@github.com:minetest-technic/unified_inventory.git
+worldedge clone: from https://github.com/minetest-mods/worldedge.git
+xban2 clone: from https://github.com/minetest-mods/xban2.git
+xdecor clone: from https://github.com/minetest-mods/xdecor.git
+zombies clone: from https://github.com/minetest-mods/zombies.git
