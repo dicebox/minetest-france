@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://gitlab.com/huynhpaul/Vilja_Pix.git
+	branch = master
+	commit = 4575ca5bc9c4009a0ea8483a3ced5e0b06f6e9d5
+	parent = 3e0bc4983d14f719e1827d70f6339f53a3ea0c5c
+	cmdver = 0.3.1
