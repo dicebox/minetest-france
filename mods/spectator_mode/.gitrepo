@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/minetest-mods/spectator_mode.git
+	branch = master
+	commit = 3459db48e1b507388ee5d24ba1531ea494e64dea
+	parent = 00ea704efb8b5d06fa9ae7e134a8d49e064fd97d
+	cmdver = 0.3.1
