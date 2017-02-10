@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/cheapie/spawn.git
+	branch = master
+	commit = c5be92a8a7c868e2db4380ce02e879cf4e7e848b
+	parent = 8ee97c6f858f8b1021d7ea13fed8293a77709913
+	cmdver = 0.3.1
