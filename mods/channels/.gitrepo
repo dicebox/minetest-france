@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/SmallJoker/channels.git
+	branch = master
+	commit = f712f33df9337c3aa68f0b08ac1e78afb578d394
+	parent = 12fa69127e102f524e32d929b8b7e5f2a2670306
+	cmdver = 0.3.1
