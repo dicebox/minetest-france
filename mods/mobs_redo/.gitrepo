@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/tenplus1/mobs_redo.git
+	branch = master
+	commit = da5e8ef63541b3386e2e3c2ed29aec4411e3139c
+	parent = 0083ffd8ae2c7fb5670abd65ffbe66f13396dcdc
+	cmdver = 0.3.1
