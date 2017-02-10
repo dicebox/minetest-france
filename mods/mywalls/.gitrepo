@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/minetest-mods/mywalls.git
+	branch = master
+	commit = 35b43b78416ced5dad7c2090afb6f3983f165ffb
+	parent = 9f6b61e260ff21ff0a9138076c797427ed233e60
+	cmdver = 0.3.1
