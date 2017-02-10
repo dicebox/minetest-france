@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/tenplus1/lucky_block.git
+	branch = master
+	commit = d18335433f1553060b4574f94872ca0cc20e6ce9
+	parent = b795fa82e893d48b7e76f24512603d59da0aa6af
+	cmdver = 0.3.1
