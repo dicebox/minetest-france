@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/tenplus1/hopper.git
+	branch = master
+	commit = 00779b5f11f5111bc08d52d25b55ddac7c7b8d14
+	parent = 60957d74691c4afc189f2dfa72bf4df7d6bcda73
+	cmdver = 0.3.1
