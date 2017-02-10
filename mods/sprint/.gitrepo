@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/GunshipPenguin/sprint.git
+	branch = master
+	commit = cbd817ff6c3c94cd92280408cbf8b7adacc97859
+	parent = 3b9b130b49cc2172cd8511c5ad313293bb94ce78
+	cmdver = 0.3.1
