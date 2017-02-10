@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/tenplus1/simple_skins.git
+	branch = master
+	commit = 8abe5eba9760f1f38ff790912c9011f0ef0aeeec
+	parent = 14d6b6d8ee125a44814d230c4415ef9e3c788c45
+	cmdver = 0.3.1
