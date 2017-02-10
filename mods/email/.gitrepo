@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/rubenwardy/email.git
+	branch = master
+	commit = 70fe6824164cfdb3fa9fde04329a34f7b2e635a9
+	parent = f4828105c728fd1374b26dffe18f70fc6c5a0a82
+	cmdver = 0.3.1
