@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = http://repo.or.cz/minetest_hbhunger.git
+	branch = master
+	commit = da70eba4fd0a9644cdb0a5b0d7ee3d93f7e61acf
+	parent = cc0827b25cf84fe5d7cef366de6bda9ab917beef
+	cmdver = 0.3.1
