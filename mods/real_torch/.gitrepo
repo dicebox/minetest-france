@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/tenplus1/real_torch.git
+	branch = master
+	commit = 38b47450c665a37229d330f7ef1ff412e10915ba
+	parent = 7c4040e58c16237e000e54f9fb3f29ba827366e2
+	cmdver = 0.3.1
