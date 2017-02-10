@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/minetest-mods/xdecor.git
+	branch = master
+	commit = 7675d495c4a273f3f578ef45a10c44897c50286b
+	parent = 7d814e11c759b7d6c02c7bca018315ec5acc5955
+	cmdver = 0.3.1
