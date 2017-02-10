@@ -1,4 +1,4 @@
-#Shared Minetest France repository
+# Shared Minetest France repository
 
 This repository is prepared with the idea that it will be shared with different minetest servers admins.
 
