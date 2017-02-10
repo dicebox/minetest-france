@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/ExeterDad/showbones.git
+	branch = master
+	commit = 65f91a35307411f7491dc4290930dd90cc0fcd01
+	parent = 36c1a6a756fa86e57e86ac684a6af532ee45d7ba
+	cmdver = 0.3.1
