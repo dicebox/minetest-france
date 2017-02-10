@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/HybridDog/treecapitator.git
+	branch = master
+	commit = 06c5144df8cb7237bca6081f51d87682027207c0
+	parent = 7668a93fb98a28e56f9e146c8d59f380e193f105
+	cmdver = 0.3.1
