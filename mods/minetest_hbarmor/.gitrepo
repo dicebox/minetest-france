@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = http://repo.or.cz/minetest_hbarmor.git
+	branch = master
+	commit = 878a351e9db2905dec0bb3e9d809b33ce5a65ed0
+	parent = e2c75bbd22c6619411bbcc0c2bc6875e9b34fff2
+	cmdver = 0.3.1
