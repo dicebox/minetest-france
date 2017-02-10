@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/minetest-mods/zombies.git
+	branch = master
+	commit = 0e633a5b1c7174e73c57cb2cdd676470eab9d627
+	parent = a78438d99c000a1f398899a7264cd2e3921d8fe6
+	cmdver = 0.3.1
