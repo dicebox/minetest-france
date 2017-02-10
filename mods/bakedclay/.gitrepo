@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/tenplus1/bakedclay.git
+	branch = master
+	commit = 8cdd0f7b8ea4c5550c9ea615593c4c88098e18b8
+	parent = e3991f94bfcdf23affc36f449ab33cf8c2d988ab
+	cmdver = 0.3.1
