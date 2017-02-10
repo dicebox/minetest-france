@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/minetest-mods/worldedge.git
+	branch = master
+	commit = e15fa9971cb96f82b73829c7682edf36c82518e1
+	parent = ffcd129922776cb6cf506a4187f52d78ac2279bc
+	cmdver = 0.3.1
